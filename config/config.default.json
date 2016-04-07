@@ -2,7 +2,7 @@
   "branch": "1.0",
   "jwtSecret": "",
   "webserver": {
-    "port": 3001
+    "port": 80
   },
   "database": {
     "host": "",
